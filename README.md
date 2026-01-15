@@ -76,5 +76,5 @@ python app.py
 ### 2. Abrir el streamlit(fronted)
 streamlit run streamlit.py
 
-### 3. Para comprobar si se guardan mis chats o combersaciones
+### 3. Para comprobar si se guardan mis chats o conversaciones
 python ver_logs.py
